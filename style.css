@@ -1,0 +1,36 @@
+body
+{
+	background-color: #9eb1ff;
+}
+
+#main-title
+{
+	color: #2e100b;
+	text-align: center;
+}
+#intro
+{
+	font-size: 30px;
+}
+#image
+{
+	height: 200px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+
+}
+#video
+{
+	height: 400px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+/*#b1
+{
+	height: 40px;
+	width: 80px;
+	margin-left: 100px;
+	
+}*/
